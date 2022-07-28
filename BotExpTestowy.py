@@ -342,7 +342,7 @@ def odswiez_gre():
         odswiez_gre()
 
 
-UruchomGre("kuba92800", "b0l0ssec0m", "//div[@data-nick = 'Rithuru']")
+UruchomGre("", "", "//div[@data-nick = '']")
 while True:
     driver.execute_script("changeClient()")
     sleep(5)

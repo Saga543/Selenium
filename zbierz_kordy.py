@@ -172,7 +172,7 @@ def PobierzCzas():
     return current_time
 
 
-UruchomGre("tomson321123", "kkkkk444", "//div[@data-nick = 'Grukar']")
+UruchomGre("", "", "//div[@data-nick = '']")
 
 
 pola2 = []

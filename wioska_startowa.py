@@ -10,8 +10,8 @@ from selenium.webdriver import Firefox
 
 
 # Dane do logowania
-login = "kuba92800"
-haslo = "b0l0ssec0m"
+login = ""
+haslo = ""
 
 driver = Firefox(executable_path=GeckoDriverManager().install())
 driver.get('https://www.margonem.pl/profile/view,5722142#char_1120398,tarhuna')

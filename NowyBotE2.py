@@ -268,7 +268,7 @@ def BotE2(e2ID, czas, x1, x2, y1, y2):
             WrocNaMiejsceiCzekaj(e2ID, czas, x1, x2, y1, y2)
 
 
-UruchomGre("kuba92800", "b0l0ssec0m", "//div[@data-nick = 'Rithuru']")
+UruchomGre("", "", "//div[@data-nick = '']")
 while True:
     OdswiezGre()
     sleep(2)
