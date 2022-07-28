@@ -28,6 +28,6 @@ class ExpBot(Postac):
                 self.wait5.until(expected_conditions.invisibility_of_element_located((By.ID, "battle")))
 
 
-bot = ExpBot("kuba92800", "b0l0ssec0m", "Rithuru")
+bot = ExpBot("", "", "")
 # bot.exp(demony_sciezka)
 

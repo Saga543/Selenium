@@ -47,5 +47,5 @@ class BotVari(BotE2):
                 self.czekaj_na_e2.until(expected_conditions.visibility_of_element_located((By.ID, id_e2)))
 
 
-postac = BotE2("Wolves", "hubertitomekspzoo", "Wolves")
+postac = BotE2("", "", "")
 postac.bij_e2("npc76767", 480, [8, 8], namiot_vari_krugera)
